@@ -6,6 +6,14 @@ A machine learning project that explores salary patterns, compares seven regress
 
 The project combines exploratory data analysis, data preprocessing, model evaluation, and a web interface. Users enter their professional background and workplace details to generate an estimate.
 
+## App Preview
+
+### Prediction Form
+![Salary prediction form](screenshot/home.jpeg)
+
+### Prediction Result
+![Salary prediction result](screenshot/result.jpeg)
+
 ## Features
 
 - Nine inputs covering experience, skills, education, and workplace details
